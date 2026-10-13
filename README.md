@@ -1,3 +1,9 @@
+This repo is my experimental AI App. I am using OpenCode to build and configure the app and it's dependencies, to get it to a running state, as an intro to AI guided development.
+
+The App that I'm using is detailed below, and the associated tutorial was purchased by me.
+
+Steve Triplett, Oct 2026.
+
 # Modern APIs with FastAPI course
 
 A course from Talk Python Training. Sign up at [**talkpython.fm/fastapi**](https://talkpython.fm/fastapi).
